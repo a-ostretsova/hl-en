@@ -1,0 +1,14 @@
+{
+	"appName": {
+		"message": "HL EN"
+	},
+	"shortDesc": {
+		"message": "Extension to change the language of Google sites to English. Compatible with Google Search, Chrome Web Store, etc."
+	},
+	"extShortName": {
+		"message": "HL EN"
+	},
+	"storeDesc": {
+		"message": "One click to change the language of Google sites to English."
+	}
+}

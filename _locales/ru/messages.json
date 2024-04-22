@@ -1,0 +1,14 @@
+{
+	"appName": {
+		"message": "HL EN"
+	},
+	"shortDesc": {
+		"message": "Расширение для смены языка сайтов Google на английский. Работает в поиске Google, магазине расширений Chrome и т.д."
+	},
+	"extShortName": {
+		"message": "HL EN"
+	},
+	"storeDesc": {
+		"message": "Изменение языка сайтов Google на английский в 1 клик."
+	}
+}
